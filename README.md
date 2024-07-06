@@ -11,10 +11,8 @@ Este repositório contém um script `.bat` que facilita a compilação de projet
 - Delphi instalado (caminho padrão do compilador configurado no script).
 - Projeto Delphi (.dproj) a ser compilado.
 
-## Como Usar
+## Execute o Script
 
-1. **Clone o Repositório**
+- Forneça o caminho para o seu arquivo .dproj como parâmetro ao executar o script:
 
-   ```sh
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/WandersonMikchael/delphi-build.git)
-
+`delphi-build.bat "caminho\para\seu\projeto.dproj"`
