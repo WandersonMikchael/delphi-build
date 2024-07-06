@@ -19,7 +19,4 @@ if %ERRORLEVEL% neq 0 (
     exit /b %ERRORLEVEL%
 )
 
-REM Executa o executável resultante do projeto
-%executavel%
-
 @echo on
