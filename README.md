@@ -16,6 +16,5 @@ Este repositório contém um script `.bat` que facilita a compilação de projet
 1. **Clone o Repositório**
 
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/WandersonMikchael/delphi-build.git)
 
